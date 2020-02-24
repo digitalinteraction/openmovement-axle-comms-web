@@ -1,0 +1,25 @@
+{
+  "name": "openmovement-axle-comms-web",
+  "version": "1.0.0",
+  "description": "OpenMovement AxLE Comms layer for Web Bluetooth",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalinteraction/openmovement-axle-comms-web.git"
+  },
+  "author": "Gerard Wilkinson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/digitalinteraction/openmovement-axle-comms-web/issues"
+  },
+  "homepage": "https://github.com/digitalinteraction/openmovement-axle-comms-web#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1"
+  }
+}
